@@ -1,0 +1,19 @@
+# Gitignore for jupyter notebook
+
+venv/.ipynb_checkpoints
+venv/etc
+venv/images
+venv/include
+venv/Lib
+venv/share
+venv/Scripts/data
+venv/Scripts/cv
+venv/Scripts/jsonpointer
+
+
+*.cfg
+*.exe
+*.bat
+*.jpg
+[Aa]ctivate.*
+activate
